@@ -1,11 +1,10 @@
 ---
-timeToRead: 10
+timeToRead: 1
 authors: []
 title: Forestry erabiliz sortutako lehen artikulua
 excerpt: Hau da Forestry erabiliz sortutako lehen artikulua
 date: 2021-11-09T23:00:00+00:00
 hero: ''
-draft: true
 
 ---
 Hau da Forestry erabiliz sortutako nire lehen artikulua.
